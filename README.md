@@ -1,10 +1,6 @@
 <html>
 <head>
 <style>
-.links {text-align: left}
-.info {text-align: left}
-h1 {text-align: left}
-h2 {text-align: left}
 h4 {
   font-weight: lighter;
   font-size: 18px
